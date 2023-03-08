@@ -1,4 +1,4 @@
-DESENVOLVEDOR PYTHON JUNIOR
+DESENVOLVEDOR PYTHON JUNIOR 
 <div align="center">
   <a href="https://github.com/IsadoraFerrao">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
@@ -23,8 +23,6 @@ DESENVOLVEDOR PYTHON JUNIOR
 
 
   <a href="https://www.linkedin.com/in/abraao-borges-4ab8a4158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <a href="https://www.freepik.com/free-photo/coffee_1271492.htm" target="_blank"><img src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/coffee.png" alt="Free coffee for visitors" style="height: 40px !important;width: 150px !important;" ></a>
   
   ![Snake animation](https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/snake.svg)
 </div>
